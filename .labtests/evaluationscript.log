@@ -1,0 +1,9 @@
+Already on 'main'
+Test #0 passed!
+Test #1 passed!
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Test #2 failed! Could not read from remote repository. Make sure you have pushed your code to remote and it is a real repository
